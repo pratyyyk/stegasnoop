@@ -20,3 +20,11 @@ These techniques help highlight anomalies that may indicate hidden data.
 ## How to Run
 ```bash
 python stegasnoop.py image.png
+## Contributing
+Contributions are welcome!
+
+To contribute:
+1. Fork this repository
+2. Create a new branch for your changes
+3. Make your changes and commit them
+4. Open a pull request describing what you changed
