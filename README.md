@@ -22,6 +22,18 @@ These techniques help highlight anomalies that may indicate hidden data.
 python stegasnoop.py image.png
 ## Contributing
 Contributions are welcome!
+## ACWOC Contributions
+
+This project is part of ACWOC and is open for beginner-friendly
+open-source contributions.
+
+New contributors can start with:
+- Documentation improvements
+- Adding test images
+- Improving detection heuristics
+- Enhancing CLI output
+
+All contribution tasks are listed under the **Issues** tab.
 
 To contribute:
 1. Fork this repository
